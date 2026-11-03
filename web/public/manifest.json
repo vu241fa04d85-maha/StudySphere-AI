@@ -1,0 +1,22 @@
+{
+  "short_name": "AI-SA",
+  "name": "AI Study Assistant",
+  "description": "All-in-one AI learning workstation with study chat, document summaries, Code Lab, and quizzes.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0A0E17",
+  "theme_color": "#6366F1",
+  "display": "standalone",
+  "orientation": "portrait-primary"
+}

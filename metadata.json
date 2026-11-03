@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Assistant",
+  "description": "All-in-one AI learning platform with study chat, document analysis, Code Lab, quizzes, timed tests, and hackathons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

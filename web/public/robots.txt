@@ -1,0 +1,18 @@
+# User-agent rules for AI Study Assistant
+User-agent: *
+Allow: /
+Allow: /login
+Allow: /register
+Allow: /privacy
+Allow: /terms
+
+# Disallow private user workspaces and admin portals from indexing
+Disallow: /dashboard
+Disallow: /dashboard/*
+Disallow: /admin
+Disallow: /admin/*
+Disallow: /api/
+Disallow: /auth/
+
+# Sitemap location
+Sitemap: https://ai-study-assistant.app/sitemap.xml
